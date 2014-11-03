@@ -1,5 +1,7 @@
 leetcode
 ==========
+My leetcode solutions. Most of srcs are Java and others are Python.
+
 
 |Problems | Code|Difficulty|
 |---------|-----|----------|
