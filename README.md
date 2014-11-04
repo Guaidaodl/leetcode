@@ -10,3 +10,4 @@ My leetcode solutions. Most of srcs are Java and others are Python.
 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](Code/PopulatigNextRightPointers.py)|Medium|
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](Code/RemoveDuplicatesfromSortedList/Solution.java)|Easy|
 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)|[Java](Code/RecoverBST/Solution.java)|Hard|
+|[LRU Cahce](https://oj.leetcode.com/problems/lru-cache/)|[Java](Code/LRUCache/LRUCache.java)|Hard|
