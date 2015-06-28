@@ -9,6 +9,7 @@ My leetcode solutions. Most of srcs are Java and others are Python.
 |2  |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Java](Code/AddTwoNumbers/Solution.java)|Medium|
 |3  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](Code/LongestSubStringWithoutRepeatingCharacters/Solution.java)|Medium|
 |4  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](Code/MedianOfTwoSortedArrays/Solution.java)|Hard|
+|5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](Code/LongestPalindromicSubstring.cpp)|Medium|
 |10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](Code/RegularExpressionMatching/Solution.java)|Hard|
 |70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Java](Code/ClimbingStairs/Solution.java)|Easy|
 |83 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](Code/RemoveDuplicatesfromSortedList/Solution.java)|Easy|
@@ -21,4 +22,4 @@ My leetcode solutions. Most of srcs are Java and others are Python.
 |141|[Linked List Cycyle](https://oj.leetcode.com/problems/linked-list-cycle/)|[Java](Code/LinkedListCycle/Solution.java)|Easy|
 |146|[LRU Cahce](https://oj.leetcode.com/problems/lru-cache/)|[Java](Code/LRUCache/LRUCache.java)|Hard|
 
-Total: 15
+Total: 16
