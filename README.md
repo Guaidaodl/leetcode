@@ -10,8 +10,8 @@ My leetcode solutions. Most of srcs are Java and others are Python.
 |3  |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](Code/LongestSubStringWithoutRepeatingCharacters/Solution.java)|Medium|
 |4  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](Code/MedianOfTwoSortedArrays/Solution.java)|Hard|
 |5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](Code/LongestPalindromicSubstring.cpp)|Medium|
-|6  |[ZipZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](Code/ZipZag.cpp)|[Easy]
-|7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](Code/ReverseInteger/Solution.java)|[Easy]
+|6  |[ZipZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](Code/ZipZag.cpp)|Easy
+|7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](Code/ReverseInteger/Solution.java)|Easy
 |10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](Code/RegularExpressionMatching/Solution.java)|Hard|
 |70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Java](Code/ClimbingStairs/Solution.java)|Easy|
 |83 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](Code/RemoveDuplicatesfromSortedList/Solution.java)|Easy|
