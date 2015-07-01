@@ -12,6 +12,7 @@ My leetcode solutions. Most of srcs are Java and others are Python.
 |5  |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](Code/LongestPalindromicSubstring.cpp)|Medium|
 |6  |[ZipZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](Code/ZipZag.cpp)|Easy
 |7  |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](Code/ReverseInteger/Solution.java)|Easy
+|8  |[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](Code/atoi.cpp)|Easy
 |10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](Code/RegularExpressionMatching/Solution.java)|Hard|
 |70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Java](Code/ClimbingStairs/Solution.java)|Easy|
 |83 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](Code/RemoveDuplicatesfromSortedList/Solution.java)|Easy|
