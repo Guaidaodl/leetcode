@@ -34,4 +34,4 @@ My leetcode solutions. Most of srcs are Java and others are Python.
 |141|[Linked List Cycyle](https://oj.leetcode.com/problems/linked-list-cycle/)|[Java](Code/LinkedListCycle/Solution.java)|Easy|
 |146|[LRU Cahce](https://oj.leetcode.com/problems/lru-cache/)|[Java](Code/LRUCache/LRUCache.java)|Hard|
 
-Total: 20
+Total: 28 
